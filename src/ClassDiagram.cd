@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Block">
+    <Position X="5.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAABiAEAAAAAAQAQACBAAAQACFAIBg2UQHBEE=</HashCode>
+      <FileName>Block.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blockZ">
+    <Position X="5.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>BlocksChildren.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blockZ2">
+    <Position X="10" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlocksChildren.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blockCross">
+    <Position X="12.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlocksChildren.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blockL">
+    <Position X="1" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>BlocksChildren.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blockSquare">
+    <Position X="3.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlocksChildren.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="blockLine">
+    <Position X="7.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlocksChildren.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAEDEIAAAIAABAgAAEAABAIAAgChQAACCAAAQ=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEIAAgAAAAAAAAAAgAAAAAAAAAAAAABAAAAACAEcBAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionDetector">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CollisionDetector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EndGameState" Collapsed="true">
+    <Position X="20" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAABFAEACAAAIQEAAACBCBAAApAQAAAQCAAUYAA=</HashCode>
+      <FileName>EndGameState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAQAUAAAAAAAAgiAEAAMQAQAAAQUAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAABIAAAAAACAEAAAABAAAEIgAAQIIFAYAAhCYAg=</HashCode>
+      <FileName>GameManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameState" Collapsed="true">
+    <Position X="15.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAUIAA=</HashCode>
+      <FileName>GameState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HowToPlayState" Collapsed="true">
+    <Position X="17.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAAAAAEAQAAIAAAAACBABAAAgAAAAAACAAUIAA=</HashCode>
+      <FileName>HowToPlayState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenuState" Collapsed="true">
+    <Position X="22.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABQAAICAAAACBABAAAgAAAAAACAAUIAA=</HashCode>
+      <FileName>MainMenuState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RankingState" Collapsed="true">
+    <Position X="24.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAABAAAEAAAAAIAAAAACBFBgAAggAgQAACAAUJAE=</HashCode>
+      <FileName>RankingState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreManager">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJBAgAAAAAAAAAAABAIAAAAAAEBEACYAAAAAAEQAAA=</HashCode>
+      <FileName>ScoreManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State" Collapsed="true">
+    <Position X="20" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACAAAAAAAACAAAAgAAAABAAAAAMAAAQBBAUAAA=</HashCode>
+      <FileName>State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeManager">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYBAAAAAAAAAAAgAAIgAgAAAAggEAAIAAAAAAAEAAA=</HashCode>
+      <FileName>TimeManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="direction" Collapsed="true">
+    <Position X="13.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Block.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="btn_states" Collapsed="true">
+    <Position X="13.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAIAEAAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
